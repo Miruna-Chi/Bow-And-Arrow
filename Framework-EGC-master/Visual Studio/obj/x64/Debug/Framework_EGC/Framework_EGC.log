@@ -1,0 +1,42 @@
+﻿  BowAndArrow.cpp
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.h(96,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.h(112,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.h(123,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(166,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(238,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(281,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(287,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(306,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(350,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(356,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(386,41): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(407,36): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(500,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(512,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(512,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(520,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(524,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(577,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(599,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(599,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(606,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(606,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Source\BowAndArrow\BowAndArrow.cpp(955,33): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Framework_EGC.vcxproj -> C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Visual Studio\..\x64\Debug\Framework_EGC.exe
+  A subdirectory or file C:\Users\Stanzi\Documents\Poli\Anul III\EGC\Bow and Arrow\Framework-EGC-master\Visual Studio\scripts\..\..\x64\Debug already exists.
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
