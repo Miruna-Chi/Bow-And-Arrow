@@ -19,5 +19,7 @@ Hitting:
 Getting hit by:
 - Shurikens: -1HP
 
+Game Demo:
+https://youtu.be/kXRJX4uBFpM
 
 
