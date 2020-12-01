@@ -21,5 +21,3 @@ Getting hit by:
 
 
 
-
-All objects were created from primitives (see each class for info)
