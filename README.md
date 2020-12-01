@@ -20,4 +20,6 @@ Getting hit by:
 - Shurikens: -1HP
 
 
-* All objects were created from primitives (see each class for info) *
+
+
+All objects were created from primitives (see each class for info)
